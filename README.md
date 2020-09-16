@@ -14,4 +14,5 @@ It was nice to see you at [React Vancouver September 2020](https://reactvancouve
 - [RedwoodJS docs](https://redwoodjs.com/docs/introduction)
 - [WTF is JAMstack?](https://jamstack.wtf)
 - [Awesome RedwoodJS](https://github.com/redwoodjs/awesome-redwood)
+- [JAMstack Conf - October 6/7, 2020](https://jamstackconf.com/virtual/)
 - [The product (Postage)](https://postage.care)
